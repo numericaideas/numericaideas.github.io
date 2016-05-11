@@ -32,3 +32,18 @@ Credits:
 		Misc. Sass functions (@HugoGiraudel)
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
+
+
+
+
+
+FullStack developer by formation and profession, fixer, driver, entrepreneur, freelancer and passionate about all around IT, I love implement or use different things all the days.
+Proud about my software engineering skills and open to know more.
+
+* Coding with a lot of technologies.
+* Testing.
+* Mobile development both native and hybride.
+* Software design: Monolithic and Micro services.
+* Frontend and Backend development.
+* Collaborative working with dashboard of tasks.
+*

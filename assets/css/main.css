@@ -1738,7 +1738,7 @@
 				display: inline-block;
 				font-size: 1.25em;
 				height: 2em;
-				line-height: 1.65em; 
+				line-height: 1.65em;
 				margin-right: 0.85em;
 				text-align: center;
 				text-indent: 0.15em;
@@ -2169,8 +2169,9 @@
 	}
 
 		.image img {
-			border-radius: 5px;
+			border-radius: 50%;
 			display: block;
+			margin: auto;
 		}
 
 		.image.left, .image.right {
@@ -2678,7 +2679,7 @@
 
 				.features article .image img {
 					border-radius: 5px 5px 0 0;
-					width: 100%;
+					/* width: 100%; */
 				}
 
 		@media screen and (max-width: 980px) {
@@ -2728,7 +2729,7 @@
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
 		background-color: rgba(53, 56, 73, 0.95);
-		height: 3.5em;
+		height: 6em;
 		left: 0;
 		line-height: 3.5em;
 		padding: 0 1.25em;
@@ -3051,7 +3052,7 @@
 			margin: 0 0 1.3em 0;
 		}
 
-			#banner .logo .icon {
+			#banner .logo img {
 				border-radius: 100%;
 				border: solid 2px rgba(255, 255, 255, 0.125);
 				cursor: default;
@@ -3150,7 +3151,7 @@
 					margin: 0 0 1em 0;
 				}
 
-					#banner .logo .icon {
+					#banner .logo img {
 						font-size: 1.5em;
 					}
 
